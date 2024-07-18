@@ -1,6 +1,6 @@
 # FotoBlog
 ## Descrição:
-FotoBlog é um projeto de um blog de fotografias, desenvolvido utilizando HTML e CSS. Este repositório contém todo o código fonte necessário para criar e estilizar um blog de fotografias moderno e responsivo. O projeto foi realizado como parte do curso da Rocketseat, uma plataforma de educação focada no desenvolvimento web e mobile.
+FotoBlog é um projeto de um blog de fotografias, desenvolvido utilizando HTML e CSS. Este repositório contém todo o código fonte necessário para criar e estilizar um blog de fotografias moderno e responsivo. O projeto foi realizado como parte do curso da Rocketseat na trilha *EXPLORER*
 
 ![image](https://github.com/user-attachments/assets/f93a4de0-461d-4956-a07e-8de18cf5df16)
 
@@ -19,20 +19,17 @@ FotoBlog é um projeto de um blog de fotografias, desenvolvido utilizando HTML e
 Este projeto foi desenvolvido como parte do curso da Rocketseat, que é conhecido por sua abordagem prática e focada em desenvolver habilidades reais para o mercado de trabalho. A Rocketseat oferece diversos cursos e bootcamps voltados para desenvolvedores que desejam se especializar em tecnologias modernas e metodologias ágeis.
 
 ## Como Utilizar
-Clone este repositório:
-bash
-Copiar código
-git clone https://github.com/seu-usuario/fotoblog.git
-Navegue até o diretório do projeto:
-bash
-Copiar código
-cd fotoblog
-Abra o arquivo index.html em seu navegador preferido para visualizar o projeto.
-Contribuição
+- Clone este repositório:
+  git clone https://github.com/seu-usuario/fotoblog.git
+- Navegue até o diretório do projeto:
+  cd fotoblog
+- Abra o arquivo index.html em seu navegador preferido para visualizar o projeto.
+
+## Contribuição
 Sinta-se à vontade para contribuir com este projeto. Caso encontre algum problema ou tenha sugestões de melhorias, por favor, abra uma issue ou envie um pull request.
 
-Nota: Este é um projeto educacional desenvolvido como parte do curso da Rocketseat e serve como uma excelente base para quem deseja aprender e praticar HTML e CSS.
+> Nota: Este é um projeto educacional desenvolvido como parte do curso da Rocketseat e serve como uma excelente base para quem deseja aprender e praticar HTML e CSS.
 
-Autor: João Pedro Beltran
-LinkedIn: https://www.linkedin.com/in/joão-pedro-beltran-712838241/
+### Autor: João Pedro Beltran
+### LinkedIn: https://www.linkedin.com/in/joão-pedro-beltran-712838241/
 
