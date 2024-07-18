@@ -3,7 +3,7 @@
 FotoBlog é um projeto de um blog de fotografias, desenvolvido utilizando HTML e CSS. Este repositório contém todo o código fonte necessário para criar e estilizar um blog de fotografias moderno e responsivo. O projeto foi realizado como parte do curso da Rocketseat na trilha *EXPLORER*
 
 ![image](https://github.com/user-attachments/assets/f93a4de0-461d-4956-a07e-8de18cf5df16)
-# Link do projeto: https://jp-beltran.github.io/FotoBlog/
+Link do projeto: https://jp-beltran.github.io/FotoBlog/
 
 ## Recursos do Projeto:
 - Estrutura HTML: Utilização de tags semânticas para uma melhor organização e acessibilidade do conteúdo.
